@@ -1,7 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse,HttpResponseRedirect
 from myapp.models import ToDoItem
-
 # Create your views here.
 '''def hello(request):
     return HttpResponse('Hi, Nice to meet you')
