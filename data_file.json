@@ -1,0 +1,16 @@
+[{
+  "model": "myapp.ToDoItem",
+  "pk": 1,
+  "fields": {
+  "content": "Today is beautiful"
+  }
+},
+{
+  "model": "myapp.ToDoItem",
+  "pk": 2,
+  "fields": {
+    "content": "Yesterday was wonderful too"
+
+  }
+}
+]
